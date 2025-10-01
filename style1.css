@@ -1,0 +1,89 @@
+body {
+    max-width: 900px;
+    background-color: black;
+    margin: 10px auto;
+    padding: 50px;
+}
+h1{
+    color: red;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h2{ 
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{ 
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: 1px solid red;
+    border-radius: 2px;
+    padding: 10px;
+    max-width: 50%;
+    display: block;
+    margin: auto;
+}
+ul{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+    color: red;
+    font-style: italic;
+}
+.table-style {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .table-style th, .table-style td {
+        border: 3px solid red;
+        padding: 8px;
+        text-align: left;
+        color: white;
+    }
+
+    .table-style th {
+        background-color: #222;
+        color: red;
+    }
+.main-title {
+    color: red;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.section-title {
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: 2px solid red;
+    padding-bottom: 5px;
+}
+.bio {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.main-picture, .band-picture {
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 8px;
+    max-width: 50%;
+    display: block;
+    margin: 10px auto;
+}
